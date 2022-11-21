@@ -1,5 +1,8 @@
 # Goals / Hopes / Haves
 
+> NOTICE
+> 3rd PARTY components that use seperare JS may require adding a custom JS file or injecting a seperate JS for your safety ensure it is a trusted service.
+
 ## Goals
 
 > We are looking to have a functional CSS library that makes it easy for developers, and faster to make websites that look clean mantain functionality, increase site speed, and have responsiveness. 
