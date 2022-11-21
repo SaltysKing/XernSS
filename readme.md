@@ -10,7 +10,7 @@ You may sell components that use XernSS if they were not created by XernSS
 
 > CDN
 
-XernSS powered by Xenon Hosting : <a href="xenonhosting.org"> learn more </a> includes a cdn with 108 PoPs and redundancy to power a easy install and avoid computational requirments.
+XernSS powered by Xenon Hosting : <a href="https://xenonhosting.org"> learn more </a> includes a cdn with 108 PoPs and redundancy to power a easy install and avoid computational requirments.
 
 > Contributing.
 
