@@ -45,3 +45,9 @@ commits and contributions must be responsive and cannot require computing power,
 ### XernSS is owned and legally governed by Xenon Services. Xenon Services reserves the right to terminate CDN access to our library for any reason.
 
 > Until completion the installation docs are not open at this moment. WIP PROJECT.
+
+# Update Log
+
+> Created Base Directory 11/20/22
+> Created base CSS elements 11/20/22
+> Added Text Sizing 11/21/22
