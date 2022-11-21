@@ -5,3 +5,60 @@ text-align:center;
 }
 
 /* Center Tag End */
+
+/* Text Sizes */
+
+.RHTR{
+
+
+font-size: 3.5rem;
+}
+
+@media only screen and (max-width: 400px) {
+    .RHTR {
+        font-size: 2rem;
+    }
+}
+
+.px10{
+
+font-size:10px;
+}
+
+.px15{
+font-size:15px;
+}
+
+.px20{
+font-size:20px;
+}
+
+.px25{
+font-size:25px;
+}
+
+.px30{
+font-size:30px;
+}
+
+.px35{
+font-size:35px;
+}
+.px40{
+font-size:40px;
+}
+.px45{
+font-size:45px;
+}
+.px50{
+font-size:50px;
+}
+
+
+.rbt{
+
+font-size:1.8rem;
+}
+
+
+/* Text Sizes End */
