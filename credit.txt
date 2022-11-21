@@ -1,0 +1,25 @@
+-===-
+
+This project uses XernSS created by SaltysKing on Github
+
+-===-
+
+This File may not be removed in any forks unless any original code is deleted / not utilized. 
+
+-===- 
+
+XernSS is found @ https://github.com/SaltysKing/XernSS
+
+-===-
+
+Please report abuse or stolen / resold assets of XernSS to support@xenonhosting.org or create an issue on the XernSS github.
+
+-===-
+
+XernSS may not be resold and only original assets not listed on our official github may be resold,
+
+-===- 
+
+XernSS
+
+
