@@ -6,7 +6,7 @@
 
 ## Hopes
 
-> We hope to get contributions and want addons to margins ways to make it so variables per example margin:xxxpx; where the xxx can be replaced in the style tag and function.
+> We hope to get contributions and want addons to to make it so variables per example margin:xxxpx; where the xxx can be replaced in the style tag and function.
 
 ## Haves
 
