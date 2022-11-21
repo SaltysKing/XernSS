@@ -39,6 +39,6 @@ XernSS powered by Xenon Hosting : <a href="https://xenonhosting.org"> learn more
 commits and contributions must be responsive and cannot require computing power, component contributions are allowed but must be well built, easily understandable but may  have JS but not JS librarys such as react.
 
 
-### XernSS is owned and legaly governed by Xenon Services. Xenon Services reserves the right to terminate CDN access to our library for any reason.
+### XernSS is owned and legally governed by Xenon Services. Xenon Services reserves the right to terminate CDN access to our library for any reason.
 
 > Until completion the installation docs are not open at this moment. WIP PROJECT.
