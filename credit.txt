@@ -16,8 +16,7 @@ Please report abuse or stolen / resold assets of XernSS to support@xenonhosting.
 
 -===-
 
-XernSS may not be resold and only original assets not listed on our official github may be resold,
-
+XernSS may not be resold and only original assets not listed on our official github may be resold.
 -===- 
 
 XernSS
