@@ -48,6 +48,6 @@ commits and contributions must be responsive and cannot require computing power,
 
 # Update Log
 
-> Created Base Directory 11/20/22
-> Created base CSS elements 11/20/22
-> Added Text Sizing 11/21/22
+> Created Base Directory 11/20/22 <br>
+> Created base CSS elements 11/20/22 <br>
+> Added Text Sizing 11/21/22 <br>
