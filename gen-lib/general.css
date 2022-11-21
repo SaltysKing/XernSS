@@ -1,1 +1,25 @@
+/* Rounded Borders */
 
+.robr15{
+border-radius: 15px;
+}
+.robr10{
+border-radius: 10px;
+}
+.robr5{
+border-radius: 5px;
+}
+.robr20{
+border-radius: 20px;
+}
+.robr25{
+border-radius: 25px;
+}
+.robr30{
+border-radius: 30px;
+}
+.robr35{
+border-radius: 30px;
+}
+
+/* Rounded Borders End */
