@@ -2,7 +2,7 @@
 
 ## Goals
 
-> We are looking to have a functional CSS library that makes it easy for developers, and fastor to make websites that look clean mantain functionality, increase site speed, and have responsiveness. 
+> We are looking to have a functional CSS library that makes it easy for developers, and faster to make websites that look clean mantain functionality, increase site speed, and have responsiveness. 
 
 ## Hopes
 
