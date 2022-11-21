@@ -1,3 +1,25 @@
+# Goals / Hopes / Haves
+
+## Goals
+
+> We are looking to have a functional CSS library that makes it easy for developers, and fastor to make websites that look clean mantain functionality, increase site speed, and have responsiveness. 
+
+## Hopes
+
+> We hope to get contributions and want addons to margins ways to make it so variables per example margin:xxxpx; where the xxx can be replaced in the style tag and function.
+
+## Haves
+
+> This project is just starting so we dont have alot currently there is
+
+* Margins
+* Rounded Corners
+* Centered Text
+* Bit More
+
+> By the end of november im hoping to have a healthy collection of most basic css tags. 
+
+
 # XernSS Notice
 
 > Fair Use
