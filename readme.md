@@ -1,0 +1,17 @@
+# XernSS Notice
+
+> Fair Use
+
+XernSS must be used in a capacity that does not endanger or hurt our reputation or brand.
+XernSS has the right to terminate CDN access to our services for any reason. 
+You may not re-sell XernSS or re-sell forks that contain XernSS's assets.
+You may sell components that use XernSS if they were not created by XernSS
+
+
+> CDN
+
+XernSS powered by Xenon Hosting : <a href="xenonhosting.org"> learn more </a> includes a cdn with 108 PoPs and redundancy to power a easy install and avoid computational requirments.
+
+> Contributing.
+
+commits and contributions must be responsive and cannot require computing power, component contributions are allowed but must be well built, easily understandable but may  have JS but not JS librarys such as react.
