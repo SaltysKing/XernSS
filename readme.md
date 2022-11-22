@@ -59,6 +59,7 @@ XernSS must be used in a capacity that does not endanger or hurt our reputation 
 XernSS has the right to terminate CDN access to our services for any reason. 
 You may not re-sell XernSS or re-sell forks that contain XernSS's assets.
 You may sell components that use XernSS if they were not created by XernSS
+Do not remove the TXT file.
 
 
 > CDN
