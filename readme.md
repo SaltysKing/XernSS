@@ -51,3 +51,4 @@ commits and contributions must be responsive and cannot require computing power,
 > Created Base Directory 11/20/22 <br>
 > Created base CSS elements 11/20/22 <br>
 > Added Text Sizing 11/21/22 <br>
+> Added Borders 11/21/22
