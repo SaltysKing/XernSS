@@ -46,6 +46,11 @@ commits and contributions must be responsive and cannot require computing power,
 
 > Until completion the installation docs are not open at this moment. WIP PROJECT.
 
+
+## IMAGE EXPAMPLE
+
+  <img src="https://i.gyazo.com/f46afc8b7463ada13febfd9ac140412e.png" width="350" title="hover text">
+
 # Update Log
 
 > Created Base Directory 11/20/22 <br>
