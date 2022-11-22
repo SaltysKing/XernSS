@@ -47,7 +47,7 @@ commits and contributions must be responsive and cannot require computing power,
 > Until completion the installation docs are not open at this moment. WIP PROJECT.
 
 
-## IMAGE EXPAMPLE
+## IMAGE EXAMPLE OF BASIC FUNCTIONALITY.
 
   <img src="https://i.gyazo.com/f46afc8b7463ada13febfd9ac140412e.png" width="350" title="hover text">
 
