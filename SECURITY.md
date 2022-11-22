@@ -5,9 +5,9 @@
 ## DO NOT INCLUDE THE JS INJECTOR IF YOU ARE ONLY USING THE INCLUDED CSS TAGS, AND NO COMPONENTS.
 ## IF REQUIRED DOWNLOAD AND FORK THE REQUIRED FILES AND HOST THE LIBRARY ON A HIPPA COMPLIENT MACHINE.
 
-  <link rel="stylesheet" type="text/css" href="https://xenonhosting.org/xernsscdn/csstextlib/lib1.css">
-  <link rel="stylesheet" type="text/css" href="https://xenonhosting.org/xernsscdn/gen-lib/general.css">
-<script src="https://xenonhosting.org/xernsscdn/optional-caution/js-injector.js"></script>
+  <link rel="stylesheet" type="text/css" href="https://xenonhosting.org/xernsscdn/csstextlib/lib1.css"> <br>
+  <link rel="stylesheet" type="text/css" href="https://xenonhosting.org/xernsscdn/gen-lib/general.css"> <br>
+<script src="https://xenonhosting.org/xernsscdn/optional-caution/js-injector.js"></script> <br>
 
 ## Reporting a Vulnerability
 
