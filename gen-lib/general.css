@@ -64,3 +64,19 @@ border-radius: 30px;
 .mr30{margin-right: 30px;}
 .mra{margin-right: auto;}
 /* Margins End */
+
+
+
+/* Borders Start */
+
+.sb0{ border: solid; }
+.sb5{ border: 5px solid; }
+.sb10{ border: 10px solid; }
+.db0{ border:  dotted; }
+.db5{ border: 5px dotted; }
+.db10{ border: 10px dotted; }
+.bobs{ border-bottom: solid ;}
+.bobs{ border-bottom: dotted ;}
+
+
+/* Borders End */
