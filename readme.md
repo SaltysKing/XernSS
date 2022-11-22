@@ -13,6 +13,19 @@
 
 4. Do not add additional JS files unless you fully trust the distributor.
 
+# Install without CDN
+
+1. Download the zip 
+2. Publish the CSS and JS files on the server or local computer.
+3. Refrence the files in the head tag with this HTML.
+
+```
+<link rel="stylesheet" type="text/css" href="path to css here">
+<link rel="stylesheet" type="text/css" href="path to css here"> 
+<script src="path to js here"></script>
+
+
+
 # Goals / Hopes / Haves
 
 > NOTICE
