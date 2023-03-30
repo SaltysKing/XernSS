@@ -1,17 +1,6 @@
 # Install Instructions - Production / Hosted / CDN
-
-1. go to the ```<head> ``` tag of your website
-2. Inside of the tag copy and paste the following code
-```
-<link rel="stylesheet" type="text/css" href="https://xenonhosting.org/xernsscdn/csstextlib/lib1.css">
-<link rel="stylesheet" type="text/css" href="https://xenonhosting.org/xernsscdn/gen-lib/general.css"> 
-```
-
-3. If you want to use functional components that require JS or need the JS file copy and paste the code below in the same tag to enable that.
-
-```<script src="https://xenonhosting.org/xernsscdn/optional-caution/js-injector.js"></script> ```
-
-4. Do not add additional JS files unless you fully trust the distributor.
+ 
+##  HOSTED CDN NO LONGER OFFERED
 
 # Install without CDN
 
