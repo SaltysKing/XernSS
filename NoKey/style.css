@@ -1,0 +1,17 @@
+.center-screen {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    min-height: 100vh;
+  }
+
+  hr{
+
+    width:25%;
+
+  }
+
+  body {
+    font-family: "Times New Roman", Times, serif;
+  }
