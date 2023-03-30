@@ -17,4 +17,4 @@
 
 ### Contact Xernar#0955 for free CDN Hosting of your NoKey Handler.
 
-# It is suggested you do not use the NoKey page.
+# It is suggested to use the index.html as a turnstie type system if host so intends.
