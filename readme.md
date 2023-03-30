@@ -37,6 +37,8 @@
 * Centered Text
 * Bit More
 
++ PAGE RULES  [AUTH BY IP ]
+
 > By the end of november im hoping to have a healthy collection of most basic css tags. 
 
 
