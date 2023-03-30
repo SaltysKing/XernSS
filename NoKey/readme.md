@@ -15,4 +15,6 @@
 
 ```<script src="/linktohandler.js"></script>```
 
-### Contact Xernar#0955 for free CDN Hosting of your NoKey Instance.
+### Contact Xernar#0955 for free CDN Hosting of your NoKey Handler.
+
+# It is suggested you do not use the NoKey page.
