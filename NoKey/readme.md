@@ -18,3 +18,15 @@
 ### Contact Xernar#0955 for free CDN Hosting of your NoKey Handler.
 
 # It is suggested to use the index.html as a turnstile type system if host so intends.
+
+
+
+## FAQ
+
+> How would I display the users IP, ORG, or Country on my website?
+     Simply make <p> with the IDs
+ 
+ 
+ ORG: Network Orginization Name
+  IP: Users IPv4 or V6
+  COUNTRY: Users Country
